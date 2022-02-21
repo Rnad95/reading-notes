@@ -8,7 +8,14 @@ Hello, my name is Renad, a Computer System Engineer with specialty in machine le
 
 ---  
 
-## Code 102 - Intro to Software Development
+## Code 102 - Intro to Software Development  
+**Content:**  
+| Title       | Description | Links         |  
+| :---        |    :----:   |          ---: |
+|             |             |               |
+|             |             |               |
+
+
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
