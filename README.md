@@ -13,3 +13,6 @@ I am forward-thinking person who love tackling new challenges and collaborating 
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
+
+
+> - the link of the [live page](https://rnad95.github.io/reading-notes/)
