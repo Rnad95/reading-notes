@@ -11,6 +11,9 @@ to retrieve a data that exist in SQL database.
 
 **NOTE:**  * indicate to retrieve all column in database.
 
+![Task1](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task1.png)
+
+
 ### Lesson 2  **CONSTRAINTS Pt. 1**
 
 - We using **WHERE** to add condition to data we want to retrieve.
@@ -27,6 +30,8 @@ to retrieve a data that exist in SQL database.
 |       IN(..)         | if Number exist in a list     |  col_name IN (1,2,3,4,5)        |
 |     NOT IN(..)       | if Number NOT exist in a list |  col_name NOT IN (1,2,3,4,5)    |
 
+![Task 2](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task2.png)
+
 ### Lesson 3  
 
 |   Operator           |    Condition                                                                            |       SQL Ex.                   |
@@ -38,6 +43,8 @@ to retrieve a data that exist in SQL database.
 |          %           | to Justify the string whatever it start in the beginning or middle or int the last      |  col_name LIKE "%AT%"                 |
 |          _          | Used to match a single character                                                         |  col_name LIKE "RA_"                  |
 
+![Task 3](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task3.png)
+
 ### Lesson 4: Filtering and sorting Query results  
 
 - **DISTINCT**: DISTINCT used after SELECT keyword to remove the redundancy information.  
@@ -48,11 +55,18 @@ to retrieve a data that exist in SQL database.
 
 - **Offset**: to determine the start point we want to begin from there.
 
+![Task 4](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task4.png)
+
+
  **Lesson 5 is a review.**  
+![Task 5](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task%205%20Review.png.png)
+
 
 ### Lesson 6: JOIN  
 
 - Using **INNER JOIN** to merge two table or more.
+
+![Task 6](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task6.png)
 
 ## Modifying on table  
 
@@ -62,15 +76,21 @@ to retrieve a data that exist in SQL database.
 
 - Use **INSERT INTO** keyword to insert new value to the table.  
 
+![Task 13](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task13.png)
+
 ### Lesson 14: UPDATE  
 
 - It's to change an existing data.  
 
 > We  using the UPDATE keyword with Set Keyword to change the value. In Addition to need a condition  to specify the data we want to edit.  
 
+![Task 14](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task14.png)
+
 ### Lesson 15: DELETE
 
 - Remove an existing data using DELETE Keyword with condition. If we don't put the condition all the data in table will be clear.  
+
+![Task 15](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task15.png)
 
 ## updating TABLE and Creating, deleting Database  
 
@@ -86,6 +106,8 @@ Add new Table in database using:
 > ..  
 > );**  
 
+![Task 16](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task16.png)
+
 ### Lesson 17: **Altering table**  
 
 In Altering Table we have 3 type:  
@@ -97,6 +119,12 @@ to add new column with default value.
 
 3. **ALTER ... RENAME ... TO**  
 
+![Task 17](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task17.png)
+
 ### Lesson 18: **Drop table**
 
 - **DROP TABLE IF EXIST tableName** to drop table and we use IF EXIST to sure we have a table to delete because if the database dont have the software assume that as an error.  
+
+![Tasl 18](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/Asserts/Task18.png)
+
+   # End
