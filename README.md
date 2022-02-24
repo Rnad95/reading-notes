@@ -22,8 +22,8 @@ Hello, my name is Renad, a Computer System Engineer with specialty in machine le
 
 ## Code 401 - Advanced Software Development  
 
-| Title             | Description                    | Links         |  
-| :---              |    :----:                      |          ---: |
-|      Read01       |    introduction to SQL         |  [Link]()     |
+| Title             | Description                    | Links                                                                                  |  
+| :---              |    :----:                      |                                                                                   ---: |
+|      Read01       |    introduction to SQL         |  [Link](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/introToSQL.md)     |
 >
 > - the link of the [live page](https://rnad95.github.io/reading-notes/)
