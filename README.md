@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, my name is Renad, a Computer System Engineer with specialty in machine learning, web development. Passionate about tackling new challenges and collaborating with all kinds of interesting people along the way.  
+Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialty in machine learning, web development. Passionate about tackling new challenges and collaborating with all kinds of interesting people along the way.  
 ***contact me on [Linkedin](https://www.linkedin.com/in/renadjkhawatreh/) or send me an email <r.khawatreh13@gmail.com>***
 
 ### **The website is designed for showing all notes about this course.**  
