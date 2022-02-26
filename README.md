@@ -12,8 +12,11 @@ Hello, my name is Renad, a Computer System Engineer with specialty in machine le
 ## Code 102 - Intro to Software Development  
 
 **Content:**  
+
 | Title             | Description         | Links         |  
 | :---              |    :----:           |          ---: |
+|      Read01       |    Markdown         |  [Link]()     |
+|      Read01       |    Markdown         |  [Link]()     |
 |      Read01       |    Markdown         |  [Link]()     |
 
 ## Code 201 - Foundations of Software Development  
