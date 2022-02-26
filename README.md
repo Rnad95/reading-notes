@@ -26,6 +26,6 @@ Hello, my name is Renad, a Computer System Engineer with specialty in machine le
 | :---              |    :----:                      |                                                                                   ---: |
 |  IntroToSQL       |    introduction to SQL         |  [Link](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/introToSQL.md)     |
 | practiceTerminal  |    Practice Terminal           |  [Link](https://rnad95.github.io/reading-notes/practiceTerminal)                       |
-|  Read01           |     Java Basic                 |  [Link](https://rnad95.github.io/reading-notes/Read01.md)
+|  Read01           |     Java Basic                 |  [Link](https://rnad95.github.io/reading-notes/Read01)
 >
 > - the link of the [live page](https://rnad95.github.io/reading-notes/)
