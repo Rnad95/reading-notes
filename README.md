@@ -28,6 +28,7 @@ Hello, my name is Renad, a Computer System Engineer with specialty in machine le
 | practiceTerminal  |    Practice Terminal           |  [Link](https://rnad95.github.io/reading-notes/practiceTerminal)                       |
 |  Read01           |     Java Basic                 |  [Link](https://rnad95.github.io/reading-notes/Read01)                                 |
 |  Read02           |  Array, Loops, Import Package  |  [Link](https://rnad95.github.io/reading-notes/Read02)                                 |
+|  Discussion 01    |  Prep: The Growth Mindset      |  [Link](https://rnad95.github.io/reading-notes/Discussion01)             |
 
 >
 > - the link of the [live page](https://rnad95.github.io/reading-notes/)
