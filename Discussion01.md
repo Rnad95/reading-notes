@@ -1,4 +1,4 @@
-# Discussion 01
+# Prep: The Growth Mindset
 
 ## An efficient way to improve the skills is by applying deliberate practice
 
