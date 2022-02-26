@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes
 
 ## Introduction
 Hello, my name is Renad, a Computer System Engineer with specialty in machine learning, web development. Passionate about tackling new challenges and collaborating with all kinds of interesting people along the way.  
@@ -17,7 +17,16 @@ Hello, my name is Renad, a Computer System Engineer with specialty in machine le
 
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
-## Code 401 - Advanced Software Development
+
+## Code 401 - Advanced Software Development  
+
+| Title             | Description                    | Links                                                                                  |  
+| :---              |    :----:                      |                                                                                   ---: |
+|  IntroToSQL       |    introduction to SQL         |  [Link](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/introToSQL.md)     |
+| practiceTerminal  |    Practice Terminal           |  [Link](https://rnad95.github.io/reading-notes/practiceTerminal)                       |
+>
+> - the link of the [live page](https://rnad95.github.io/reading-notes/)
+
 
 
 > - the link of the [live page](https://rnad95.github.io/reading-notes/)

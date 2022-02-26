@@ -4,7 +4,7 @@
 
 Bash command line interface, `Terminal`, is an interface to do some commands  without Graphical User Interface (GUI).  
 
-Actually, <span style="background:blue">The GUI is much easier but the reason to use terminal is that some operations are much suited in Terminal</span>. In addition, some developer will work with him could prefer using a terminal.  
+Actually, The GUI is much easier but the reason to use terminal is that some operations are much suited in Terminal. In addition, some developer will work with him could prefer using a terminal.  
 
 ### The Command Line  
 
@@ -130,7 +130,7 @@ To get all directories:
 
 >- **`renad@renad-HP-Notebook:~$`** rm -r DirectoryName  
 
-### <span style="color:blue">Cheat Sheet </span>
+### Cheat Sheet
 
 ---
 A quick reference for the main commands covered in this tutorial [Linux Tutorial - Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)  
