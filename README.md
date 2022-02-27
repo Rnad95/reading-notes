@@ -13,15 +13,15 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 
 **Content:**  
 
-| Title             | Description         | Links         |  
-| :---              |    :----:           |          ---: |
-|     Class01       |    Markdown         |  [Link]()     |
-|     Class02       |    Markdown         |  [Link]()     |
-|     Class03       |    Markdown         |  [Link]()     |
-|     Class04       |    Markdown         |  [Link]()     |
-|     Class05       |    Markdown         |  [Link]()     |
-|     Class06       |    Markdown         |  [Link]()     |
-|     Class07       |    Markdown         |  [Link]()     |
+| Title             | Description                    | Links         |  
+| :---              |    :----:                      |          ---: |
+|     Class01       |    Introduction                |  [Link](https://rnad95.github.io/reading-notes/102-IntrotoSWDevelopment/Class01)     |
+|     Class02       | MarkDown Documentation         |  [Link](https://rnad95.github.io/reading-notes/102-IntrotoSWDevelopment/Class02)     |
+|     Class03       |    Git Commands                |  [Link](https://rnad95.github.io/reading-notes/102-IntrotoSWDevelopment/Class03)     |
+|     Class04       | Html Structure and CSS         |  [Link](https://rnad95.github.io/reading-notes/102-IntrotoSWDevelopment/Class04)     |
+|     Class05       | Introductio to JavaScript      |  [Link](https://rnad95.github.io/reading-notes/102-IntrotoSWDevelopment/Class05)     |
+
+
 
 
 ## Code 201 - Foundations of Software Development  
@@ -36,7 +36,11 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 | practiceTerminal  |    Practice Terminal           |  [Link](https://rnad95.github.io/reading-notes/practiceTerminal)                       |
 |  Read01           |     Java Basic                 |  [Link](https://rnad95.github.io/reading-notes/Read01)                                 |
 |  Read02           |  Array, Loops, Import Package  |  [Link](https://rnad95.github.io/reading-notes/Read02)                                 |
-|  Discussion 01    |  Prep: The Growth Mindset      |  [Link](https://rnad95.github.io/reading-notes/Discussion01)             |
+|  Read03           |  Maps, primitives, File I/O    |  [Link](https://rnad95.github.io/reading-notes/Read03)                                 |
 
+
+| Title             | Description                    | Links                                                                                  |  
+| :---              |    :----:                      |                                                                                   ---: |
+|  Discussion 01    |  Prep: The Growth Mindset      |  [Link](https://rnad95.github.io/reading-notes/Discussion01)                           |
 >
 > - the link of the [live page](https://rnad95.github.io/reading-notes/)
