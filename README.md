@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Note
 
 ## Introduction
 
@@ -15,9 +15,14 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 
 | Title             | Description         | Links         |  
 | :---              |    :----:           |          ---: |
-|      Read01       |    Markdown         |  [Link]()     |
-|      Read01       |    Markdown         |  [Link]()     |
-|      Read01       |    Markdown         |  [Link]()     |
+|     Class01       |    Markdown         |  [Link]()     |
+|     Class02       |    Markdown         |  [Link]()     |
+|     Class03       |    Markdown         |  [Link]()     |
+|     Class04       |    Markdown         |  [Link]()     |
+|     Class05       |    Markdown         |  [Link]()     |
+|     Class06       |    Markdown         |  [Link]()     |
+|     Class07       |    Markdown         |  [Link]()     |
+
 
 ## Code 201 - Foundations of Software Development  
 
