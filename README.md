@@ -37,6 +37,7 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |  Read01           |     Java Basic                 |  [Link](https://rnad95.github.io/reading-notes/Read01)                                 |
 |  Read02           |  Array, Loops, Import Package  |  [Link](https://rnad95.github.io/reading-notes/Read02)                                 |
 |  Read03           |  Maps, primitives, File I/O    |  [Link](https://rnad95.github.io/reading-notes/Read03)                                 |
+|  Read04           |         OOP                    |  [Link](https://rnad95.github.io/reading-notes/Read04)                                 |
 
 
 | Title             | Description                    | Links                                                                                  |  
