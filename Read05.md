@@ -1,4 +1,4 @@
-Linked List
+# Linked List
 
 To calculate the performance of code that's depending on two factors:
 
