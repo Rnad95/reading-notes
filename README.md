@@ -39,7 +39,8 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |  Read03           |  Maps, primitives, File I/O    |  [Link](https://rnad95.github.io/reading-notes/Read03)                                 |
 |  Read04           |         OOP                    |  [Link](https://rnad95.github.io/reading-notes/Read04)                                 |
 |  Read05           |         Linked List            |  [Link](https://rnad95.github.io/reading-notes/Read05)                                 |
-|  Read05           | Inheritance and Interface      |  [Link](https://rnad95.github.io/reading-notes/Read06)                                 |
+|  Read06           | Inheritance and Interface      |  [Link](https://rnad95.github.io/reading-notes/Read06)                                 |
+|  Read07           | Q's and Ans's with colleagues  |                                                                                        |
 
 >
 | Title             | Description                    | Links                                                                                  |  
