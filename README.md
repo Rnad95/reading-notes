@@ -41,6 +41,8 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |  Read05           |         Linked List            |  [Link](https://rnad95.github.io/reading-notes/Read05)                                 |
 |  Read06           | Inheritance and Interface      |  [Link](https://rnad95.github.io/reading-notes/Read06)                                 |
 |  Read07           | Q's and Ans's with colleagues  |                                                                                        |
+|  Read08           |       Design OO                |  [Link](https://rnad95.github.io/reading-notes/Read08)                                 |
+
 
 >
 | Title             | Description                    | Links                                                                                  |  
