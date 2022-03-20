@@ -45,6 +45,7 @@ Then, we need to add mySessionAttribute. Like A Request Param, the attribute can
 
 This attribute shared between the request and session
 
+
          <table>
                 <tr>
                     <td>My context attribute</td>
