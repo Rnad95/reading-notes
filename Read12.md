@@ -2,8 +2,6 @@
 
 ## Introduction
 
----
-
 - JPA stands for Java Persistent API.  
 
 Spring Data JPA is a framework that abstract all of complexity to interact Java IDE with the database.
