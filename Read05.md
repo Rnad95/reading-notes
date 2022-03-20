@@ -1,10 +1,11 @@
-Linked List
+# Linked List
 
 To calculate the performance of code that's depending on two factors:
 
 1. The time of running the code (complexity time)
 2. The space of memory for this code. (complexity space)
 
+## Big O
 The Big O term comes to describe the efficiency of algorithm and it should be declaration with 4 key:
 
 1. Units of Measurement like measure the time, or number of operation, the basic of operation.
@@ -19,14 +20,16 @@ The Average Big(Theta) : describes how much the efficiency is normal for program
 
 ![](https://i.ibb.co/NWmzgyQ/Screenshot-from-2022-03-02-02-13-37.png)
 
-### basice complexity of code
 
+## basice complexity of code
+
+---
 ![](https://i.ibb.co/27NT0nY/Screenshot-from-2022-03-02-01-58-07.png)
 
 Linked List is one of the Algorithm and data structure that linked the elements with each other.
 the difference between the Linked List and Array is that the linked list is store not sequence data
 
-The Type of Linked List:
+### The Type of Linked List:
 
 1. Single Linked List: Navigation is forward only.
 2. Doubly Linked List: the possibility of Forward and backward navigatation is exist
@@ -39,6 +42,6 @@ the head it's a reference and indicates to the first element
 the current it's a reference and indicates to the current element.
 The node indicates the combinations between the element and the current reference type
 
-The Difference between the Array and Linked List
+**The Difference between the Array and Linked List**
 
 ![difference](https://i.ibb.co/sKt2Z49/Screenshot-from-2022-03-02-02-15-45.png)
