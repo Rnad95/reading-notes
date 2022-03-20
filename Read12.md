@@ -110,7 +110,7 @@ There are some basic downsides of directly depending on these as well:
 
 2. by extending e.g. CrudRepository, we expose a complete set of persistence method at once
 
-$$ Recourses $$
+## Recourses
 
 ---
 
