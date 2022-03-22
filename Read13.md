@@ -180,3 +180,9 @@ public void setup() throws Exception {
 3.5. Send POST Request
 
 because Spring prepares a fake web application context to mock the HTTP requests and responses, it may not support all the features of a full-blown Spring application.
+
+## Resources
+
+---
+[Resource 1](https://www.baeldung.com/spring-data-rest-relationships)  
+[Resource 2](https://www.baeldung.com/integration-testing-in-spring)
