@@ -30,23 +30,23 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 
 ## Code 401 - Advanced Software Development  
 
-| Title             | Description                    | Links                                                                                  |  
-| :---              |    :----:                      |                                                                                   ---: |
-|  IntroToSQL       |    introduction to SQL         |  [Link](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/introToSQL.md)     |
-| practiceTerminal  |    Practice Terminal           |  [Link](https://rnad95.github.io/reading-notes/practiceTerminal)                       |
-|  Read01           |     Java Basic                 |  [Link](https://rnad95.github.io/reading-notes/Read01)                                 |
-|  Read02           |  Array, Loops, Import Package  |  [Link](https://rnad95.github.io/reading-notes/Read02)                                 |
-|  Read03           |  Maps, primitives, File I/O    |  [Link](https://rnad95.github.io/reading-notes/Read03)                                 |
-|  Read04           |         OOP                    |  [Link](https://rnad95.github.io/reading-notes/Read04)                                 |
-|  Read05           |         Linked List            |  [Link](https://rnad95.github.io/reading-notes/Read05)                                 |
-|  Read06           | Inheritance and Interface      |  [Link](https://rnad95.github.io/reading-notes/Read06)                                 |
-|  Read07           | Q's and Ans's with colleagues  |                                                                                        |
-|  Read08           |       Design OO                |  [Link](https://rnad95.github.io/reading-notes/Read08)                                 |
-|  Read09           |       HTTP Request             |  [Link](https://rnad95.github.io/reading-notes/Read09)                                 |
-|  Read10           | Q's and Ans's with colleagues  |                                                                                         |
-|  Read11           |      Spring framework          |  [Link](https://rnad95.github.io/reading-notes/Read11)                                 |
-|  Read12           |   Connect Spring to DB         |  [Link](https://rnad95.github.io/reading-notes/Read12)                                 |
-
+| Title             | Description                                       | Links                                                                                 |  
+| :-----------------|:-------------------------------------------------:|--------------------------------------------------------------------------------------:|
+|  IntroToSQL       |    introduction to SQL                            |  [Link](https://github.com/Rnad95/reading-notes/blob/prepIntroToSQL/introToSQL.md)     |
+| practiceTerminal  |    Practice Terminal                              |  [Link](https://rnad95.github.io/reading-notes/practiceTerminal)                       |
+|  Read01           |     Java Basic                                    |  [Link](https://rnad95.github.io/reading-notes/Read01)                                 |
+|  Read02           |  Array, Loops, Import Package                     |  [Link](https://rnad95.github.io/reading-notes/Read02)                                 |
+|  Read03           |  Maps, primitives, File I/O                       |  [Link](https://rnad95.github.io/reading-notes/Read03)                                 |
+|  Read04           |         OOP                                       |  [Link](https://rnad95.github.io/reading-notes/Read04)                                 |
+|  Read05           |         Linked List                               |  [Link](https://rnad95.github.io/reading-notes/Read05)                                 |
+|  Read06           | Inheritance and Interface                         |  [Link](https://rnad95.github.io/reading-notes/Read06)                                 |
+|  Read07           | Q's and Ans's with colleagues                     |                                                                                        |
+|  Read08           |       Design OO                                   |  [Link](https://rnad95.github.io/reading-notes/Read08)                                 |
+|  Read09           |       HTTP Request                                |  [Link](https://rnad95.github.io/reading-notes/Read09)                                 |
+|  Read10           | Q's and Ans's with colleagues                     |                                                                                         |
+|  Read11           |      Spring framework                             |  [Link](https://rnad95.github.io/reading-notes/Read11)                                 |
+|  Read12           |   Connect Spring to DB                            |  [Link](https://rnad95.github.io/reading-notes/Read12)                                 |
+|  Read13           |  related Resource and integration testing         |  [Link](https://rnad95.github.io/reading-notes/Read13)                                 |
 
 
 >
