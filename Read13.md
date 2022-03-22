@@ -30,9 +30,11 @@ There are three types of Relationships in database:
 2. @JoinToColumn()
 3. @RestResource() [optional]  
 
-Library Class                                                                       |  Address Class
-:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:
-![Library Class](https://i.ibb.co/wCdWYzk/Screenshot-from-2022-03-21-23-30-21.png)  |  ![Address Class](https://i.ibb.co/JmyYth8/Screenshot-from-2022-03-21-23-31-26.png)
+Library Class
+![Library Class](https://i.ibb.co/wCdWYzk/Screenshot-from-2022-03-21-23-30-21.png) 
+
+Addredd Class
+![Address Class](https://i.ibb.co/JmyYth8/Screenshot-from-2022-03-21-23-31-26.png)
 
 - After Created @OnetoOne, the linking of two table will be used @Join to specify another table(class).
 
