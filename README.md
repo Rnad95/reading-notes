@@ -47,6 +47,7 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |  Read11           |      Spring framework                             |  [Link](https://rnad95.github.io/reading-notes/Read11)                                 |
 |  Read12           |   Connect Spring to DB                            |  [Link](https://rnad95.github.io/reading-notes/Read12)                                 |
 |  Read13           |  related Resource and integration testing         |  [Link](https://rnad95.github.io/reading-notes/Read13)                                 |
+|  Read14           |          Tree BST and K-ary Tree                  |  [Link](https://rnad95.github.io/reading-notes/Read14)                                 |
 
 
 >
