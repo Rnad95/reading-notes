@@ -50,6 +50,7 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |  Read14           |           Manual Auth with Bcrypt                 |                                                                                       |
 |  Read15           |           Tree BST and K-ary Tree                 |  [Link](https://rnad95.github.io/reading-notes/Read14)                                 |
 |  Read16           |           Spring Authentication                   |  [Link](https://rnad95.github.io/reading-notes/Read16)                                 |
+|  Read17           |           Spring Authorization                    |  [Link](https://rnad95.github.io/reading-notes/Read17)                                 |
 
 
 >
