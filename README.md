@@ -40,17 +40,18 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |  Read04           |         OOP                                       |  [Link](https://rnad95.github.io/reading-notes/Read04)                                 |
 |  Read05           |         Linked List                               |  [Link](https://rnad95.github.io/reading-notes/Read05)                                 |
 |  Read06           | Inheritance and Interface                         |  [Link](https://rnad95.github.io/reading-notes/Read06)                                 |
-|  Read07           | Q's and Ans's with colleagues                     |                                                                                        |
+|  Read07           | Q's and Ans's with colleagues                     |                                                                                         |
 |  Read08           |       Design OO                                   |  [Link](https://rnad95.github.io/reading-notes/Read08)                                 |
 |  Read09           |       HTTP Request                                |  [Link](https://rnad95.github.io/reading-notes/Read09)                                 |
 |  Read10           | Q's and Ans's with colleagues                     |                                                                                         |
 |  Read11           |      Spring framework                             |  [Link](https://rnad95.github.io/reading-notes/Read11)                                 |
 |  Read12           |   Connect Spring to DB                            |  [Link](https://rnad95.github.io/reading-notes/Read12)                                 |
 |  Read13           |  related Resource and integration testing         |  [Link](https://rnad95.github.io/reading-notes/Read13)                                 |
-|  Read14           |           Manual Auth with Bcrypt                 |                                                                                       |
+|  Read14           |           Manual Auth with Bcrypt                 |                                                                                         |
 |  Read15           |           Tree BST and K-ary Tree                 |  [Link](https://rnad95.github.io/reading-notes/Read14)                                 |
 |  Read16           |           Spring Authentication                   |  [Link](https://rnad95.github.io/reading-notes/Read16)                                 |
 |  Read17           |           Spring Authorization                    |  [Link](https://rnad95.github.io/reading-notes/Read17)                                 |
+|  Read18           |             Web App Security                      |  [Link](https://rnad95.github.io/reading-notes/Read18)                                 |
 
 
 >
