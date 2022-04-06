@@ -14,7 +14,7 @@ The functional when it uses some concepts of functional programming, such as fir
 
 First-class function need not be purely functional, as they may use techniques from the imperative paradigm such as arrays or methods that use mutable cells, which update their state as side effects. The exact difference between pure and impure functional programming is a matter of controversy.
 
-- Pure Function always prodice the same results when given the same parameter meanwhile the impure maube produce different result.
+- Pure Function always produce the same results when given the same parameter meanwhile the impure maube produce different result.
 
 - The pure `never` has a side effect, the Impure has.
 
@@ -24,15 +24,15 @@ First-class function need not be purely functional, as they may use techniques f
 
 ---
 
-1. Strict versus non-strict evaluation
+1- Strict versus non-strict evaluation
 
 - In particular, it ensures that the programmer does not have to consider in which order programs are evaluated, since eager evaluation will return the same result as lazy evaluation. However, it is still possible that an eager evaluation may not terminate while the lazy evaluation of the same program halts.
 
-2. Parallel computing
+2- Parallel computing
 
 - It simplifies parallel computing since two purely functional parts of the evaluation never interact. Parallel computing is a type of computation in which many calculations or processes are carried out simultaneously.
 
-3. Data structures
+3- Data structures
 
 - Purely functional data structures are often represented in a different way than their imperative counterparts. Therefore, purely functional data structures can be used in languages which are non-functional, but they may not be the most efficient tool available, especially if persistency is not required.
 
