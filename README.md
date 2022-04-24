@@ -44,7 +44,7 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |  Read08           |       Design OO                                   |  [Link](https://rnad95.github.io/reading-notes/Read08)                                 |
 |  Read09           |       HTTP Request                                |  [Link](https://rnad95.github.io/reading-notes/Read09)                                 |
 |  Read10           | Q's and Ans's with colleagues                     |                                                                                         |
-|  Read11           |      Spring framework                             |  [Link](https://rnad95.github.io/reading-notes/Read11)                                 |
+|  **Read11**       |     **Spring framework**                          |  [Link](https://rnad95.github.io/reading-notes/Read11)                                 |
 |  Read12           |   Connect Spring to DB                            |  [Link](https://rnad95.github.io/reading-notes/Read12)                                 |
 |  Read13           |  related Resource and integration testing         |  [Link](https://rnad95.github.io/reading-notes/Read13)                                 |
 |  Read14           |           Manual Auth with Bcrypt                 |                                                                                         |
@@ -53,6 +53,8 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |  Read17           |           Spring Authorization                    |  [Link](https://rnad95.github.io/reading-notes/Read17)                                 |
 |  Read18           |             Web App Security                      |  [Link](https://rnad95.github.io/reading-notes/Read18)                                 |
 |  Read19           |             Spring an Sockets                     |  [Link](https://rnad95.github.io/reading-notes/Read19)                                 |
+|  **Read26**       |          **Android Fundamental**                  |  [Link](https://rnad95.github.io/reading-notes/Read26)                                 |
+
 
 
 >
