@@ -61,7 +61,6 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 | Title             | Description                    | Links                                                                                  |  
 | :---              |    :----:                      |                                                                                   ---: |
 |  Discussion 01    |  Prep: The Growth Mindset      |  [Link](https://rnad95.github.io/reading-notes/Discussion01)                           |
-|                   |                                |                                                                                        |
 
 >
 > - the link of the [live page](https://rnad95.github.io/reading-notes/)
