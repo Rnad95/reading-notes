@@ -54,6 +54,7 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |  Read18           |             Web App Security                      |  [Link](https://rnad95.github.io/reading-notes/Read18)                                 |
 |  Read19           |             Spring an Sockets                     |  [Link](https://rnad95.github.io/reading-notes/Read19)                                 |
 |  **Read26**       |          **Android Fundamental**                  |  [Link](https://rnad95.github.io/reading-notes/Read26)                                 |
+|    Read27         |            Intents and sharedPreferences          |  [Link](https://rnad95.github.io/reading-notes/Read27)                                 |
 
 
 
