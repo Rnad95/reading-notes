@@ -4,6 +4,10 @@
 
 ---
 
+### Architecture of RecyclerView
+
+![Arch](https://miro.medium.com/max/1400/1*n1E21gJ-1-MTHqiZECttXA.jpeg)
+
 ### Key classes
 
 Several different classes work together to build your dynamic list.
