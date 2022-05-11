@@ -60,3 +60,5 @@ where i represent the number of repeat the result of index
 - Each bucket has a set of entries which are the elements we want to add it inside the hashTable
 
 - The worst case of this scenario when all of the element has the same index.
+
+![](assets/HashTable/chaining.png)
