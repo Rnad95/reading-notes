@@ -59,6 +59,7 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |    Read29         |               Room                                |  [Link](https://rnad95.github.io/reading-notes/Read28)                                 |
 |    Read30         |               HashTable                           |  [Link](https://rnad95.github.io/reading-notes/Read30)                                 |
 |    Read31         |               AWS Amplify                         |  [Link](https://rnad95.github.io/reading-notes/Read31)                                 |
+|    Read32         |          Serverless and AWS Amlplify              |  [Link](https://rnad95.github.io/reading-notes/Read32)                                 |
 
 
 
