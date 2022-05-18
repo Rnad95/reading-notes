@@ -60,6 +60,7 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |    Read30         |               HashTable                           |  [Link](https://rnad95.github.io/reading-notes/Read30)                                 |
 |    Read31         |               AWS Amplify                         |  [Link](https://rnad95.github.io/reading-notes/Read31)                                 |
 |    Read32         |          Serverless and AWS Amlplify              |  [Link](https://rnad95.github.io/reading-notes/Read32)                                 |
+|    Read32         |                 GrapghQL                          |  [Link](https://rnad95.github.io/reading-notes/Read33)                                 |
 
 
 
