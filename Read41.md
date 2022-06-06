@@ -5,6 +5,11 @@
 ---
 Amazon Pinpoint is a flexible and scalable outbound and inbound marketing communications service. Amazon Pinpoint is easy to set up, easy to use, and is flexible for all marketing communication scenarios. Segment your campaign audience for the right customer and personalize your messages with the right content.
 
+## How it works
+
+---
+![](https://d1.awsstatic.com/product-marketing/Pinpoint/Product-page-diagram_Amazon-Pinpoint-with-Journeys-%402x.59f755aedb4ea26ddbdeade13529046129c3d7a1.png)
+
 ## Benefits
 
 ---
