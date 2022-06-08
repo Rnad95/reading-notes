@@ -12,6 +12,31 @@ some Key capabilities in adMob like: Earn more from AdMob's in-app ads, Improve 
 ---
 AdMob helps you monetize your mobile app through in-app advertising. Ads can be displayed in a number of formats and are seamlessly added to platform native UI components.
 
+## Monetize with ease
+
+---
+
+Increase engagement and retention with subscriptions by offering free trials, introductory pricing, promo codes, and more. Use subscription insights to measure how much you earn from each subscription tier, track retention, and see which features attract the most interest
+
+### Convert users into buyers
+
+Google Play offers a frictionless payment experience for you and your users, handling everything from receipts to subscription management to notifications with ease
+
+> Sell digital content in your app through a simple and safe checkout flow with Google Play’s billing system
+
+> Understand how your users behave and get detailed insights into app use and user engagement with Google Analytics for Firebase
+
+>Incorporate live-ops time-limited sales and events as a ?long-term strategy that introduces new content into the game economy.
+Offer a paid app by setting a price that the user must pay before they can download and install it
+
+### Reach more paying customers
+
+Tap into Google Play’s billing system, one of the world’s largest mobile payments platforms, with over 2.5 billion active users in more than 190 countries
+
+> Earn more while enhancing your user experience by finding the right combination of ad formats, for new and existing users, with Google AdMob.
+
+> Maximize your revenue by considering a flexible monetization strategy that adapts to your audiences and markets. Whether it’s in-app purchases, subscriptions, or paid apps, you choose the monetization strategy that works best for your business
+
 ## Code of Ethics - [Link](https://www.acm.org/code-of-ethics)
 
 ---
@@ -68,8 +93,6 @@ Ensure that there is a fair agreement concerning ownership of any software, proc
 
 Not unfairly intervene in the career of any colleague; however, concern for the employer, the client or public interest may compel software engineers, in good faith, to question the competence of a colleague.
 
-**MY OPINION**
-
 
 ## BIG DATA IS OUR GENERATION’S CIVIL RIGHTS ISSUE, AND WE DON’T KNOW IT - [Link](http://solveforinteresting.com/big-data-is-our-generations-civil-rights-issue-and-we-dont-know-it/)
 
@@ -77,7 +100,7 @@ Not unfairly intervene in the career of any colleague; however, concern for the 
 
 Data doesn’t invade people’s lives. What’s really driving so-called Big Data isn’t the volume of information. It turns out Big Data doesn’t have to be all that big. Rather, it’s about a reconsideration of the fundamental economics of analyzing data.
 
-![three V](http://solveforinteresting.com/wp-content/uploads/2012/07/big-data-triangle.png)
+![threeV](https://i.ibb.co/BrDyfyC/big-data-triangle.png)
 
 I’d first heard this as the “three V’s of data”: Volume, Variety, and Velocity. Traditionally, getting two was easy but getting three was very, very, very expensive.
 
@@ -85,6 +108,9 @@ The advent of clouds, platforms like Hadoop, and the inexorable march of Moore�
 
 That needs repeating:
 You decide what data is about the moment you define its schema. With the new, data-is-abundant model, we collect first and ask questions later. The schema comes after the collection. This means we collect information long before we decide what it’s for.
+
+>**MY OPINION**
+I suppose that the big data is very important, the speed and the value and the huge mount of data source is increasing. But I think we need to manage the new database in some areas like extraction the data from many sources, changes to the logistics of data management with new database and integration approaches and so on. So, we don't need a big analytics project, we want a new data thinking to permeate our regular work.
 
 ##  Google Backtracks, Says Its AI Will Not Be Used for Weapons or Surveillance - [Link](https://gizmodo.com/in-reversal-google-says-its-ai-will-not-be-used-for-we-1826649327)
 
@@ -105,3 +131,21 @@ The company would attempt to provide a “Google-earth-like” surveillance syst
 “Ultimately, how the company enacts these principles is what will matter more than statements such as this,” Asaro said. 
 
 One Googler told Gizmodo that the principles amounted to “a hollow PR statement.” “The international norms surrounding espionage, cyberoperations, mass information surveillance, and even drone surveillance are all contested and debated in the international sphere. “This contract involved drone video footage and low-res object identification using AI, saving lives was the overarching intent,” Greene wrote in a blog post.
+
+>**OPINION:**
+I am already thinking in my mind what the factors to say this topics is etremely good.  that there are many benefits of AI such as improved the accuracy and decision-making and predict about something like the market stock and weather and so on.
+ Surely, no one want the war, but if the AI feild will be dangerous if it will use as arm in the wars
+Recently, I see this aspect forming a single answer - we need to control this feild with many countries to ensure no one can use this in bad way.
+
+## AI at Google: our principles
+
+---
+
+![Google](https://blog.google/static/blogv2/images/google-1000x1000.png)
+
+At its heart, AI is computer programming that learns and adapts.
+So today, we’re announcing seven principles to guide our work going forward.
+As we consider potential development and uses of AI technologies, we will take into account a broad range of social and economic factors, and will proceed where we believe that the overall likely benefits substantially exceed the foreseeable risks and downsides.
+And we will responsibly share AI knowledge by publishing educational materials, best practices, and research that enable more people to develop useful AI applications.
+Technologies that gather or use information for surveillance violating internationally accepted norms.
+As AI technologies progress, we’ll work with a range of stakeholders to promote thoughtful leadership in this area, drawing on scientifically rigorous and multidisciplinary approaches.
