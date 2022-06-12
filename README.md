@@ -69,6 +69,8 @@ Hello :yellow_heart:, my name is Renad, a Computer System Engineer with specialt
 |    Read39         |                  Kinesis                          |  [Link](https://rnad95.github.io/reading-notes/Read39)                                 |
 |    Read41         |             Intent Filters LOL                    |  [Link](https://rnad95.github.io/reading-notes/Read41)                                 |
 |    Read42         |             Ethics                                |  [Link](https://rnad95.github.io/reading-notes/Read42)                                 |
+|    Read43         |             OOS Contribution                      |  [Link](https://rnad95.github.io/reading-notes/Read43)                                 |
+
 
 
 
