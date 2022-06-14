@@ -62,8 +62,6 @@ Not unfairly intervene in the career of any colleague; however, concern for the 
 
 Data doesn’t invade people’s lives. What’s really driving so-called Big Data isn’t the volume of information. It turns out Big Data doesn’t have to be all that big. Rather, it’s about a reconsideration of the fundamental economics of analyzing data.
 
-![threeV](https://i.ibb.co/BrDyfyC/big-data-triangle.png)
-
 I’d first heard this as the “three V’s of data”: Volume, Variety, and Velocity. Traditionally, getting two was easy but getting three was very, very, very expensive.
 
 The advent of clouds, platforms like Hadoop, and the inexorable march of Moore’s Law means that now, analyzing data is trivially inexpensive. In the old, data-is-scarce model, companies had to decide what to collect first, and then collect it. A traditional enterprise data warehouse might have tracked sales of widgets by color, region, and size. This act of deciding what to store and how to store it is called designing the schema, and in many ways, it’s the moment where someone decides what the data is about.
